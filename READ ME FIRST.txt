@@ -2,6 +2,6 @@
 
                                                                                                              
 
-                                                                                                                  LOGIN PASSWORD ----> pass
+                                                                                                LOGIN PASSWORD ----> pass
 
-                                                                                                                      ATM ACC PIN ----->1234
+                                                                                                  ATM ACC PIN ----->1234
