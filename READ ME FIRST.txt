@@ -1,0 +1,7 @@
+                                                                                    BANK MANAGEMENT SYSTEM IN C PROGRAMMING LANGUAGE
+
+                                                                                                             
+
+                                                                                                                  LOGIN PASSWORD ----> pass
+
+                                                                                                                      ATM ACC PIN ----->1234
